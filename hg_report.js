@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 2
 
-   Author: 
-   Date:   
+   Author: Ryan Burkhart
+   Date: 2-28-19  
    
    Filename: hg_report.js
 	
